@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BAB",
+    "BSB",
+    " S "
+  ],
+  "key": {
+    "B": {
+      "tag": "minecraft:planks"
+    },
+    "A": {
+      "tag": "minecraft:logs"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "hammertime:wooden_hammer",
+    "count": 1
+  }
+}

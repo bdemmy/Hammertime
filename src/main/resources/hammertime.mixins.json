@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.bdemmy.hammertime.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "BlockHandlerMixin"
+  ],
+  "client": [
+    "WorldRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
